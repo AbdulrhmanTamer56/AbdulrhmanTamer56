@@ -48,18 +48,40 @@ Full-stack Web Developer & ERP Systems Builder
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat&logo=google-chrome&logoColor=white)
 
+<style>
+pre {
+  background: #0d1117;
+  color: #c9d1d9;
+  padding: 20px;
+  border-radius: 10px;
+  font-family: "JetBrains Mono", monospace;
+  font-size: 15px;
+  line-height: 1.6;
+  overflow-x: auto;
+  border: 1px solid #30363d;
+  white-space: pre;
+}
+
+pre .kw   { color: #ff7b72; }      /* Keywords */
+pre .str  { color: #a5d6ff; }      /* Strings */
+pre .obj  { color: #d2a8ff; }      /* Object names */
+pre .prop { color: #79c0ff; }      /* Properties */
+</style>
+
+
 <pre>
-class About extends Me { 
-  const myTools = {  
-    "ProgrammingLanguages / لغات البرمجة" : { "PHP", "JavaScript", "HTML", "CSS", "SQL" },
-    "FrontEnd / الواجهات" : { "React", "Bootstrap", "jQuery", "Responsive Design" },
-    "BackEnd / السيرفر" : { "Node.js", "Laravel", "REST APIs" },
-    "Database / قواعد البيانات" : { "MySQL", "SQLite" },
-    "Tools / الأدوات" : { "Git", "GitHub", "VS Code", "Postman", "Chrome DevTools" },
-    "Platforms / البيئات" : { "Web", "Desktop", "API Systems" }
+<span class="kw">class</span> <span class="obj">About</span> <span class="kw">extends</span> <span class="obj">Me</span> { 
+  <span class="kw">const</span> myTools = {  
+    <span class="str">"ProgrammingLanguages / لغات البرمجة"</span> : { <span class="str">"PHP"</span>, <span class="str">"JavaScript"</span>, <span class="str">"HTML"</span>, <span class="str">"CSS"</span>, <span class="str">"SQL"</span> },
+    <span class="str">"FrontEnd / الواجهات"</span> : { <span class="str">"React"</span>, <span class="str">"Bootstrap"</span>, <span class="str">"jQuery"</span>, <span class="str">"Responsive Design"</span> },
+    <span class="str">"BackEnd / السيرفر"</span> : { <span class="str">"Node.js"</span>, <span class="str">"Laravel"</span>, <span class="str">"REST APIs"</span> },
+    <span class="str">"Database / قواعد البيانات"</span> : { <span class="str">"MySQL"</span>, <span class="str">"SQLite"</span> },
+    <span class="str">"Tools / الأدوات"</span> : { <span class="str">"Git"</span>, <span class="str">"GitHub"</span>, <span class="str">"VS Code"</span>, <span class="str">"Postman"</span>, <span class="str">"Chrome DevTools"</span> },
+    <span class="str">"Platforms / البيئات"</span> : { <span class="str">"Web"</span>, <span class="str">"Desktop"</span>, <span class="str">"API Systems"</span> }
   };
 }
 </pre>
+
 
 🛠 What I Do — أنا بعمل إيه؟
 
