@@ -1,29 +1,10 @@
-<style>
-pre {
-  background: #0d1117;
-  color: #c9d1d9;
-  padding: 20px;
-  border-radius: 10px;
-  font-family: "JetBrains Mono", monospace;
-  font-size: 15px;
-  line-height: 1.6;
-  overflow-x: auto;
-  border: 1px solid #30363d;
-  white-space: pre;
-}
 
-pre .kw   { color: #ff7b72; }      /* Keywords */
-pre .str  { color: #a5d6ff; }      /* Strings */
-pre .obj  { color: #d2a8ff; }      /* Object names */
-pre .prop { color: #79c0ff; }      /* Properties */
-</style>
 
 <div align="center" width="50">
 
 <img src="https://th.bing.com/th/id/R.022985b86be94bc685983db6bbd98de3?rik=LH48cEY5KNHKIA&pid=ImgRaw&r=0" alt="Hello Coders" width="60%"/> <br>
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=AbdulrhmanTamer56&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AbdulrhmanTamer56&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
 
 <br>
 
@@ -100,17 +81,5 @@ const myTools = {
 
 🤝 بحب الشغل المرتّب والتعاون في المشاريع
 
-<hr></hr>
-
-**Code Cycle**<br>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
-
-
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
 
 </div>
