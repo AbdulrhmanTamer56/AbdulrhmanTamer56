@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="[(https://allhacked.com/up/2019/03/hello-world.gif)](https://th.bing.com/th/id/R.022985b86be94bc685983db6bbd98de3?rik=LH48cEY5KNHKIA&pid=ImgRaw&r=0)" alt="Hello Coders" width="60%"/> <br>
+<img src="https://th.bing.com/th/id/R.022985b86be94bc685983db6bbd98de3?rik=LH48cEY5KNHKIA&pid=ImgRaw&r=0" alt="Hello Coders" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 <details>
