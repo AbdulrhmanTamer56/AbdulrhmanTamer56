@@ -1,3 +1,23 @@
+<style>
+pre {
+  background: #0d1117;
+  color: #c9d1d9;
+  padding: 20px;
+  border-radius: 10px;
+  font-family: "JetBrains Mono", monospace;
+  font-size: 15px;
+  line-height: 1.6;
+  overflow-x: auto;
+  border: 1px solid #30363d;
+  white-space: pre;
+}
+
+pre .kw   { color: #ff7b72; }      /* Keywords */
+pre .str  { color: #a5d6ff; }      /* Strings */
+pre .obj  { color: #d2a8ff; }      /* Object names */
+pre .prop { color: #79c0ff; }      /* Properties */
+</style>
+
 <div align="center" width="50">
 
 <img src="https://th.bing.com/th/id/R.022985b86be94bc685983db6bbd98de3?rik=LH48cEY5KNHKIA&pid=ImgRaw&r=0" alt="Hello Coders" width="60%"/> <br>
@@ -48,25 +68,7 @@ Full-stack Web Developer & ERP Systems Builder
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat&logo=google-chrome&logoColor=white)
 
-<style>
-pre {
-  background: #0d1117;
-  color: #c9d1d9;
-  padding: 20px;
-  border-radius: 10px;
-  font-family: "JetBrains Mono", monospace;
-  font-size: 15px;
-  line-height: 1.6;
-  overflow-x: auto;
-  border: 1px solid #30363d;
-  white-space: pre;
-}
 
-pre .kw   { color: #ff7b72; }      /* Keywords */
-pre .str  { color: #a5d6ff; }      /* Strings */
-pre .obj  { color: #d2a8ff; }      /* Object names */
-pre .prop { color: #79c0ff; }      /* Properties */
-</style>
 
 
 <pre>
