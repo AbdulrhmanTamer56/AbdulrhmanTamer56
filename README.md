@@ -1,84 +1,102 @@
-<!--<h3 align="center">
-![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
-</h3> -->
+<div align="center" width="50">
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
-<!-- Whats up hacker news, i dont give a shit about being a github influencer lmao stop judging me based on literally a bio i typed up in 3 minutes -->
+<details>
+<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
 
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
 
-<!-- comment out for now while https://github.com/jstrieb/github-stats/issues/7 is going on -->
+</details>
 
+![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+[![telegram badge](https://img.shields.io/badge/SP-XD-grey?style=flat&logo=telegram)](https://t.me/spxd007) <br>
+</div>
 
+<hr></hr>
 
-<p align="center">
-  <img src="https://gpvc.arturio.dev/sw-yx" alt="profile views"> •  
-  <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton"><img src="https://img.shields.io/twitter/follow/swyx?label=%40swyx&style=social"></a>  •
-  <a href="https://swyx.io">Blog</a> •
-  <a href="https://latent.space">AI Podcast</a> •
-  <a href="https://twitter.com/intent/follow?screen_name=swyx&tw_p=followbutton">Twitter</a> •
-  <a href="https://github.com/sw-yx/README">Work README</a> •
-  <a href="https://learninpublic.org/?from=GH%20README">The Coding Career Handbook</a>
-</p>
+![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
+![semicolon](https://img.shields.io/badge/-%3A-orange)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
+![Json](https://img.shields.io/badge/json-5E5C5C?style=flat&logo=json&logoColor=white)
+![Html](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Css](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=flat&logo=GNU%20Bash&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
+![GNU/Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat&logo=sublime-text&logoColor=important)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=flat&logo=neovim&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)
+![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black)
+![Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white)
+![Gimp](https://img.shields.io/badge/gimp-5C5543?style=flat&logo=gimp&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
+![Chakra-UI](https://img.shields.io/badge/Chakra--UI-319795?style=flat&logo=chakra-ui&logoColor=white)
 
----
+```dart
+// tools_I_use organized
 
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "Dart", "Go", "Python", "Javascript", "Java", "c++" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    "Database" : { "Firebase", "Sqlite", "PostgreSql" },
+    "Editors" : { "Vscode", "Xcode", "Sublime", "Neovim" },
+    "Platforms" : { "Mac", "GNU/Linux", "Windows" },
+    "OtherTools" : { "Git", "Figma", "Photoshop", "Gimp", "Lightroom" }
+  };
+}
+```
 
-I'm currently Writer and Cohost of the [Latent Space](https://latent.space/) AI newsletter/podcast and [working on something smol](https://smol.ai/). I previously helped lead or build DevRel/DX at AWS and 3 devtools unicorns (Netlify, Temporal, Airbyte). Because I love GitHub and this is my GH Readme, I guess I should also say that I'm honored to be a [GitHub Star ⭐](https://stars.github.com/) as it has changed my life and I often share freely about how [I use GitHub for all sorts of unusual things](https://www.google.com/search?q=swyx+how+i+use+github).
+-  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Frappe**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
-I previously did a lot of community work for the React, Svelte, DevTools Angel Investing, and general JavaScript community, but now those have become less of a focus as my new founder duties ramped up.
+<div align="center" >
+<a  href="https://github.com/SP-XD">
 
-If you are a junior developer looking to level up to senior, I <a href="https://learninpublic.org/?from=GH%20README">wrote my book for you</a>.
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
 
-<a href="https://myoctocat.dev/@sw-yx/octocat">
-  <img align="right" src="https://user-images.githubusercontent.com/6764957/101532175-1cda1580-39cf-11eb-92fc-8466f97122fc.png" width=200 />
 </a>
 
-<!-- 
-
-- See my [full about page here](http://swyx.io/about) as well as [featured writing](https://www.swyx.io/#featured-writing).
-- 👯 I am on the [Career Chats](https://careerchats.transistor.fm/), [Svelte Radio](https://www.svelteradio.com/), and [Swyx Mixtape](http://swyx.transistor.fm/) podcasts.
-- 💬 Ask me about [Svelte](https://www.swyx.io/svelte-why/) and [React](https://www.youtube.com/watch?v=KJP1E-Y-xyo) and [Temporal](https://temporal.io) and [Airbyte](https://airbyte.io)!
-- 📫 How to reach me: `swyx at hey dot com`
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I was once [detained in Cuba](https://dev.to/swyx/the-ux-of-proving-our-humanity-to-machines-nf#aside-my-time-as-a-cuban-detainee) on suspicion of being a spy
-
--->
-
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/overview.svg)
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
-
-
-<!--START_SECTION:endorsements-->
-  ### Skills & Endorsements
+<details>
+  <summary>More stats</summary>
   
-  I would like to add you to my professional network on the GITHUB.
+<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
 
-  <ul>
-  <li><a href="https://github.com/swyxio/swyxio/issues/64">DevOps</a>: </li>
-<li><a href="https://github.com/swyxio/swyxio/issues/63">Java</a>: <img src=https://avatars.githubusercontent.com/u/66071876?u=604de210151fc480c2f9c198a92879dd804da86e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/66071876?u=604de210151fc480c2f9c198a92879dd804da86e&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/62">Python</a>: <img src=https://avatars.githubusercontent.com/u/82009045?u=538869316e0f135b688f83f02d746feb33691127&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/61">Java</a>: </li>
-<li><a href="https://github.com/swyxio/swyxio/issues/60">GitHub Readme AWESOMENESS</a>: <img src=https://avatars.githubusercontent.com/u/66071876?u=604de210151fc480c2f9c198a92879dd804da86e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/66071876?u=604de210151fc480c2f9c198a92879dd804da86e&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/59">DevOps</a>: </li>
-<li><a href="https://github.com/swyxio/swyxio/issues/56">Software Engineering</a>: <img src=https://avatars.githubusercontent.com/u/158775116?u=14d7b9e4a9101dc79e791cd4e455f6c0cc667d4e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/15820796?u=0301df6885dae6682ca95457af53854ef94f071c&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/55">Roblox Studio</a>: </li>
-<li><a href="https://github.com/swyxio/swyxio/issues/54">cockery</a>: <img src=https://avatars.githubusercontent.com/u/28301369?u=1a2fb6e1db1ded905a4c38f5643943c1e6c9f64e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/15427049?u=e66d7521bc1ac0de424d9da9ae315fe24afaee92&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/52">Dawg in him</a>: <img src=https://avatars.githubusercontent.com/u/8742021?u=389d403ecf207e93e39af9c8b43828854655f1a7&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/44032235?u=cdab74ccd0fe95efbe9c5620328198bb524305db&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/51">AI Project Delivery</a>: </li>
-<li><a href="https://github.com/swyxio/swyxio/issues/50">SKILL_HERE</a>: </li>
-<li><a href="https://github.com/swyxio/swyxio/issues/49">React</a>: <img src=https://avatars.githubusercontent.com/u/46057471?u=4d1bf69d7c338cd909764162dc3354c354f91bed&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/2555503?u=d8b410189cf5cb0698858ef6d64bbdd03f0473ef&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/46792207?u=3a6ff7bb5471781d3081218ff6ffcef48d2ef955&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/6303786?u=daafe664c0f2af5b6ea6bfa72271d0e351c97b2f&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/5083214?v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/48">Flutter</a>: <img src=https://avatars.githubusercontent.com/u/15138747?u=77b91bf625688dffe218d01082ecf91e43801cd1&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/3353385?u=2ae27e396879f4b43730416370997ad7208c9745&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/37607224?u=a6dbee4f04ab3071d2f5b19160bc359d6cd62f8a&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/52480636?u=60f01edf07bc7acc5dc7072e8d4b8b86a1809eb8&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/76885050?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/30106022?u=62f235fb32a91460d03550357b538610a42fb1d5&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/79903756?u=560ba2a5067ea4c4553e355fe34791b359f4a5b8&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/47685150?u=9841362367533afbfa4f12c72d59ff8760e1b804&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/63846399?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/64674824?u=65cfa8f3de347a65c83c01d3c2066d32aa139ce5&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/46">React</a>: <img src=https://avatars.githubusercontent.com/u/56319778?u=7e7129c86cb0839d5ec764b19fd9687d7149868d&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/121201452?u=c4ae55c00e76381437343b24f7fdb9bc4433dcad&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/78602031?u=40555416e32672ed73e9eaa5637c52ebb3f5ade0&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/57211233?u=9e41850fd1bed137d15a9ad25205914ed0f663bd&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/4616064?u=dc4532608d264458a1a6179a24c99a983b66f2c2&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/95548013?u=a9f02e9359f5e61e5665622b62d7b48dcc703d47&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/5029660?u=a284778cc7a3cb286780137638f6d2fd0f77f231&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/46057471?u=4d1bf69d7c338cd909764162dc3354c354f91bed&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/18576811?u=cab60f106fee85b56525bc558367423e02cdb7f1&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/52394293?u=4f927a2ece6b640bf34a3441f6605c1c77d680fc&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/25568064?u=8f8d379bc13c0fce9646ee276a415541237fd0c8&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/45">SKILL_HERE</a>: <img src=https://avatars.githubusercontent.com/u/56319778?u=7e7129c86cb0839d5ec764b19fd9687d7149868d&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/121201452?u=c4ae55c00e76381437343b24f7fdb9bc4433dcad&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/610638?u=313cc0baf1e4028063b5c6c594b6823dbb45dd71&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/44">Machine Learning</a>: <img src=https://avatars.githubusercontent.com/u/56319778?u=7e7129c86cb0839d5ec764b19fd9687d7149868d&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/145041038?u=e64cc7ccd92e361f3d30cea3deab407866cedf29&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/43">Nice Projects</a>: <img src=https://avatars.githubusercontent.com/u/86871991?u=e53a03ec7552d32e0f01d62f51758855d615f70d&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/74574275?u=b66164e6e8bb2ebb6510484d2ae31ad605e216af&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/60849894?u=c54c724c7d7fd5368f537b886591bf68a7127bfb&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/26383905?u=41b5f265617d49c435eef4fe09f0fe5e1e03f80b&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/9533646?u=bdeb73be2e3c6aeaacf3e82887429a6e774be38e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/66274903?u=25b3729858874b8bb6a1c5b63570ca1778d913d0&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/95628792?u=0892008915626e959ebfee29c3199f9e128d2ff4&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/79057640?u=da15edc20e96275a463bb9736a22e9a4eaf876e1&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/16997807?u=dd0550e291d4450e5e60f215e535ae42b35043a4&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/70442338?u=beb1f1295293ecd690ef5e0828e4eb225439cfe7&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/119356356?u=2969fd2499e3d7e0f299cfb44d06fe0de62420d3&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/41">wow cool readme</a>: <img src=https://avatars.githubusercontent.com/u/67929847?u=8f496a9425b6fb1cd4e717eda5754f5e1ff00d99&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/6764957?u=97ad815028595b73b06ee4b0510e66bbe391228d&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/8036315?u=edeada0c9164e7b7399f2c9cd74dbb53fcbc62f3&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/33608116?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/7691110?u=f50895c9c7d4e27e10a10bb41daf739d346ef420&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/25782070?u=52456d1dc05f44339fc7ac38e6a12416145f948e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/59306143?u=554f4f17ff1fe3da319641bba270051fd587f7bd&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/90595158?u=85d527d9fe622ef8be5be506f346f677176292d9&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/89905833?u=2c2d5a336726310c6dbf60b36167100e7179df84&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/7946748?u=195c6b7c89cc3493a3624888efbd9b1f74871f06&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/4616064?u=dc4532608d264458a1a6179a24c99a983b66f2c2&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/3819724?u=a7af35d70c4644c95d3d72ca2ae475f6e599a50e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/59414243?u=0ae16f81f3dcb9f6268390d602f36104acae8d10&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/93786592?u=f86ff0e8d0289562c2bfd4df1f2f317e163daea6&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/33098072?u=c03aeac26b217a8016c296d1b9c7f447b5743bbc&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/142387029?u=0a9ee23ffa612efd43a616fd86f58c5ca2f3607e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/89846654?u=6f2a9ff8d9bff559bd0d112182a3c38881684b3d&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/35992057?u=0fdeaa7a47bcdad1363488a452c56a1b3b8f0000&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/122175234?u=822d0ef6c00e5a1144847e62c048a511cbaab625&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/6699901?u=32b1934c28bc7f496ec20624654780c2b23f40d3&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/10172142?u=ca6cef7414a9d269766bdf1a4749abecdca76265&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/119356356?u=2969fd2499e3d7e0f299cfb44d06fe0de62420d3&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/32396925?u=5a8ee3008737bdb5f5751a6929fe2c035c184d2b&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/40">Creativity</a>: <img src=https://avatars.githubusercontent.com/u/5083214?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/1330573?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/79557780?u=48bc43015df9d39251b9de7ef8e6054a606e7a73&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/43346471?u=c768a3c22670552ad1bb83fb78b16794bcbdaaf4&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/84139744?u=5023e48fa680d47f5e9bc7c3f3f63627b360e83e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/43886029?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/43886029?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/43886029?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/43886029?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/43886029?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/43886029?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/305414?u=5e1b972a358e9fd64c638258f24f7a9d3c6ce5d4&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/4337705?u=b042eccb9c76e19b82d115419ee7b44557ab65ef&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/42885087?u=6cfe2461f65e78b0457a4ddc0df647714653d6dd&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/6334512?u=e73f39bbd3754d53805d43180e2f9cb87c7a78ff&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/89905833?u=2c2d5a336726310c6dbf60b36167100e7179df84&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/125072926?u=5c680a5b54dd182f729c6f2fda2b206375211224&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/46008593?u=5c5dbfd810e5175afc8d4a3f7d11bc873b700fd8&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/46008593?u=5c5dbfd810e5175afc8d4a3f7d11bc873b700fd8&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/46008593?u=5c5dbfd810e5175afc8d4a3f7d11bc873b700fd8&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/46008593?u=5c5dbfd810e5175afc8d4a3f7d11bc873b700fd8&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/46008593?u=5c5dbfd810e5175afc8d4a3f7d11bc873b700fd8&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/39">TypeScript</a>: <img src=https://avatars.githubusercontent.com/u/1310895?u=aa5492101d2ba04c0c5a2fd6274e18e74edcc21e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/32578695?u=4d29c60cdf3bd3baa5711262fff129c37e9cc273&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/39828165?u=e0c1cc28dc7156a3d6714beb9d6732e143f253ff&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/84139744?u=5023e48fa680d47f5e9bc7c3f3f63627b360e83e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/60979926?u=b92ca8009237d06ca71c03d2f25a3de3a4a72ed4&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/7358912?u=6b354a068b3f5b69ce366ae119ed74566fdf0d61&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/102946270?u=8f26c9c5e51e3407accdad98fd6631ba8cdb89e9&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/7151485?u=0c604d6c03d8de56403af45dd4c365a97a405966&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/26205666?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/76874341?u=e6c39c3c137cf1f9d1320c6051c2ed8216eabdd7&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/40840079?u=cb0332edd5a71ee5918e616649e29ca4a1d721ad&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/38">JavaScript</a>: <img src=https://avatars.githubusercontent.com/u/91498093?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/23583726?u=d9aa829afdaf165d3b94a1c0151c3421d4eb2dc2&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/1310895?u=aa5492101d2ba04c0c5a2fd6274e18e74edcc21e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/5083214?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/32578695?u=4d29c60cdf3bd3baa5711262fff129c37e9cc273&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/87615572?u=9663c624ce9880000604a9cfc697e2da251ce4fd&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/67929847?u=8f496a9425b6fb1cd4e717eda5754f5e1ff00d99&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/68931378?u=b4faaf1cfde3007c698e8d474244bdd6c4affcfb&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/45036724?u=9e742256a5a6f3845b300cbb5f4a2cb5ec9e89f7&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/56319778?u=7e7129c86cb0839d5ec764b19fd9687d7149868d&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/121201452?u=c4ae55c00e76381437343b24f7fdb9bc4433dcad&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/76874341?u=e6c39c3c137cf1f9d1320c6051c2ed8216eabdd7&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/4616064?u=dc4532608d264458a1a6179a24c99a983b66f2c2&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/89846654?u=6f2a9ff8d9bff559bd0d112182a3c38881684b3d&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/94984885?u=76342cfdd13479588781497d05ec35a19d4af473&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/37">Self-Start</a>: <img src=https://avatars.githubusercontent.com/u/33608116?v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/55244578?u=74720b743868ded2ffb1e2b010f496684982d38e&v=4&s=20 height=20 /></li>
-<li><a href="https://github.com/swyxio/swyxio/issues/35">javascript</a>: <img src=https://avatars.githubusercontent.com/u/53054099?u=cb5b0c881e0c9f7c7aa00da0a6b5bed62da4618e&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/28717686?u=86363150947ccfd83f7adf5cc57e60e348a2b7d4&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/67929847?u=8f496a9425b6fb1cd4e717eda5754f5e1ff00d99&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/64121292?u=3c3a11cacc6ba56261efe34daec7c4a9bf14f511&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/67689090?u=1750e828e5c2af149332172ea540f82fafbe0b84&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/76874341?u=e6c39c3c137cf1f9d1320c6051c2ed8216eabdd7&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/4126?u=22619cea9e5c2872c345b909ea5adbe47e3be2f8&v=4&s=20 height=20 /><img src=https://avatars.githubusercontent.com/u/115037887?u=b9b15d0dea0aa005daa3cc05ac08213412c2f055&v=4&s=20 height=20 /></li>
-  <li><a href="https://github.com/sw-yx/sw-yx/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">Endorse new skill!</a></li>
-  </ul>
-  <!--END_SECTION:endorsements-->
+</details>
+  
+<hr></hr>
+
+**Code Cycle**<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+
+
+<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
+
+</div>
 
