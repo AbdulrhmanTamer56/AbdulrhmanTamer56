@@ -48,9 +48,7 @@ Full-stack Web Developer & ERP Systems Builder
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat&logo=google-chrome&logoColor=white)
 
-dart
-// tools_I_use organized (AR/EN)
-
+<pre>
 class About extends Me { 
   const myTools = {  
     "ProgrammingLanguages / لغات البرمجة" : { "PHP", "JavaScript", "HTML", "CSS", "SQL" },
@@ -61,7 +59,8 @@ class About extends Me {
     "Platforms / البيئات" : { "Web", "Desktop", "API Systems" }
   };
 }
-<hr/>
+</pre>
+
 🛠 What I Do — أنا بعمل إيه؟
 
 🔥 ببرمج أنظمة ERP كاملة من الصفر (زي سندات ERP)
