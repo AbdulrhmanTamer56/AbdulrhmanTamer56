@@ -2,23 +2,29 @@
 
 <img src="https://th.bing.com/th/id/R.022985b86be94bc685983db6bbd98de3?rik=LH48cEY5KNHKIA&pid=ImgRaw&r=0" alt="Hello Coders" width="60%"/> <br>
 
-<details>
-<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
-
-</details>
-
 ![Totals Hits](https://komarev.com/ghpvc/?username=AbdulrhmanTamer56&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AbdulrhmanTamer56&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
-[![telegram badge](https://img.shields.io/badge/Abdulrhman-grey?style=flat&logo=telegram)](https://t.me/)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/AbdulrhmanTamer56&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdulrhman%20Tamer-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrhman-tamer-4399ab29b/)
 
 </div>
 
-<hr></hr>
+<hr/>
 
-![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
-![semicolon](https://img.shields.io/badge/-%3A-orange)
+### 👋 Hey there! أهلاً بيك في البروفايل بتاعي
+
+أنا **Abdulrhman Tamer**  
+Full-stack Web Developer & ERP Systems Builder  
+مطور مواقع وأنظمة ERP من مصر 🇪🇬 — بحب أعمل كل حاجة من الصفر وأظبط التفاصيل بإيدي 😎🔥  
+
+بشتغل على بناء  
+**Web Apps – Desktop Tools – Bots – APIs – ERP Systems – Automations**
+
+<hr/>
+
+## 🚀 Skills & Technologies — المهارات والتقنيات
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
@@ -42,33 +48,36 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-4285F4?style=flat&logo=google-chrome&logoColor=white)
 
-
- //tools_I_use organized
+dart
+// tools_I_use organized (AR/EN)
 
 class About extends Me { 
   const myTools = {  
-    "ProgrammingLanguages" : { "PHP", "JavaScript", "HTML", "CSS", "SQL" },
-    "FrontEnd" : { "React", "Bootstrap", "jQuery", "Responsive Design" },
-    "BackEnd" : { "Node.js", "Laravel", "REST APIs" },
-    "Database" : { "MySQL", "SQLite" },
-    "Tools" : { "Git", "GitHub", "VS Code", "Postman", "Chrome DevTools" },
-    "Platforms" : { "Web", "Desktop" }
+    "ProgrammingLanguages / لغات البرمجة" : { "PHP", "JavaScript", "HTML", "CSS", "SQL" },
+    "FrontEnd / الواجهات" : { "React", "Bootstrap", "jQuery", "Responsive Design" },
+    "BackEnd / السيرفر" : { "Node.js", "Laravel", "REST APIs" },
+    "Database / قواعد البيانات" : { "MySQL", "SQLite" },
+    "Tools / الأدوات" : { "Git", "GitHub", "VS Code", "Postman", "Chrome DevTools" },
+    "Platforms / البيئات" : { "Web", "Desktop", "API Systems" }
   };
 }
+<hr/>
+🛠 What I Do — أنا بعمل إيه؟
 
-  
-<hr></hr>
+🔥 ببرمج أنظمة ERP كاملة من الصفر (زي سندات ERP)
 
-**Code Cycle**<br>
+💻 بعمل Websites, Bots, Desktop Apps
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br>
+⚙️ شاطر في تحسين الأداء و Optimization
 
+🚀 بظبط تكامل API وأنظمة الويب والموبايل
 
-<!--img src="https://github.com/SP-XD/SP-XD/blob/main/images/this_page_is.gif?raw=true"  width="40%"/-->
+🌍 بقدر أدير أنظمة من أي مكان في العالم
 
-</div>
+🤝 بحب الشغل المرتّب والتعاون في المشاريع
 
+<hr/>
+📊 GitHub Stats
+<div align="center"> <a href="https://github.com/AbdulrhmanTamer56"> <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%"> <img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%"> </a> <details> <summary>More stats</summary> <img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg"> </details> </div> <hr/>
+🔁 Code Cycle
+<div align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%"/> &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%"/> </div> 
