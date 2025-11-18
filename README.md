@@ -71,18 +71,17 @@ Full-stack Web Developer & ERP Systems Builder
 
 
 
-<pre>
-<span class="kw">class</span> <span class="obj">About</span> <span class="kw">extends</span> <span class="obj">Me</span> { 
-  <span class="kw">const</span> myTools = {  
-    <span class="str">"ProgrammingLanguages / لغات البرمجة"</span> : { <span class="str">"PHP"</span>, <span class="str">"JavaScript"</span>, <span class="str">"HTML"</span>, <span class="str">"CSS"</span>, <span class="str">"SQL"</span> },
-    <span class="str">"FrontEnd / الواجهات"</span> : { <span class="str">"React"</span>, <span class="str">"Bootstrap"</span>, <span class="str">"jQuery"</span>, <span class="str">"Responsive Design"</span> },
-    <span class="str">"BackEnd / السيرفر"</span> : { <span class="str">"Node.js"</span>, <span class="str">"Laravel"</span>, <span class="str">"REST APIs"</span> },
-    <span class="str">"Database / قواعد البيانات"</span> : { <span class="str">"MySQL"</span>, <span class="str">"SQLite"</span> },
-    <span class="str">"Tools / الأدوات"</span> : { <span class="str">"Git"</span>, <span class="str">"GitHub"</span>, <span class="str">"VS Code"</span>, <span class="str">"Postman"</span>, <span class="str">"Chrome DevTools"</span> },
-    <span class="str">"Platforms / البيئات"</span> : { <span class="str">"Web"</span>, <span class="str">"Desktop"</span>, <span class="str">"API Systems"</span> }
+class About extends Me { 
+  const myTools = {  
+    "ProgrammingLanguages / لغات البرمجة" : { "PHP", "JavaScript", "HTML", "CSS", "SQL" },
+    "FrontEnd / الواجهات" : { "React", "Bootstrap", "jQuery", "Responsive Design" },
+    "BackEnd / السيرفر" : { "Node.js", "Laravel", "REST APIs" },
+    "Database / قواعد البيانات" : { "MySQL", "SQLite" },
+    "Tools / الأدوات" : { "Git", "GitHub", "VS Code", "Postman", "Chrome DevTools" },
+    "Platforms / البيئات" : { "Web", "Desktop", "API Systems" }
   };
 }
-</pre>
+
 
 
 🛠 What I Do — أنا بعمل إيه؟
